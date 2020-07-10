@@ -1,0 +1,35 @@
+
+.general {width: 100%;height: 100%;}
+.hinh_anh {float: left;width: 20%; height: auto; margin: 20px 10% 0 10%;}
+.texts {float: right;width: 40%;height: 80%;margin: 50px 150px 100 0;}
+.texts h1{font-size: 35px;margin: 5 0 -40 0;padding: 0;color: #de0e79;font-family: "Times new Roman"}
+.texts h3{font-size: 30px;padding: 0;margin: 0;color:#98b51a;}
+.texts .ex p{font-size: 15px;margin:48 0 48 0;color:black;}
+.texts p{font-size: 15px;margin:48 0 -20 0;color:black;}
+.wrappers {display:block; width:100%; margin:0; padding:0; text-align:left;}
+.wrappers,.litte .pagination{display:block; width:100%; clear:both; padding: 0px;}
+.texts strong {text-transform: uppercase;color: #de0e79;}
+.ex {margin: 20px; display: block;}
+.texts i {padding: 10px 20px 11px 0px;font-size: 60px;color: #de0e79; float: left;}
+.texts2 h1{font-size: 40px;margin: 0;padding: 0;color: #de0e79;font-family: "Times new Roman"}
+.texts2 h3{font-size: 30px;padding: 0;margin: 0;color:#98b51a;}
+.partners .texts2 h3::before{content: "";display: block;height: 2px;background-color: black;width: 50%;margin: auto;margin-top:-10px;margin-bottom: 30px;}
+.partners {text-align: center;width: 100%;height: auto;}
+#flright3 .fl_right{display:block; width:29%;margin: 0px 20px 0 1%;float: left; padding: 10px; }
+.boder-box {border: 2px solid #a7a7a7; padding: 5px;}
+.h4-design {margin: 20px;padding: 20px 0 0 0;}
+.h4-design h4{color: #de0e79; text-align: center;font-family:"Times new Roman";}
+.imgc {margin-bottom: 5px;}
+.change-color {color: black;}
+#container #content .change-color h2{color: black;}
+#container #content .change-color h1 {color: black; font-size: 30px; padding: 0; margin: 0;}
+#container #content .change-color h3 {color: black; font-size: 20px; padding: 0; margin: 0;}
+#container #content .change-color h4 {color:#797979 ; font-size: 12px; padding: 0; margin-bottom: 15px;}
+#container #content .change-color p {color: black; font-size: 14px;}
+ #container #content .table_pink .link-posts { color: Blue; background-color:#fcc4e8 }
+ #container #content .table_pink p{;font-size: 16px; padding: 4px;margin: 0px;}
+.INT::before{content: "";display: block;height: 2px;background-color: black;width: 50%;margin: auto;margin-top:-10px;margin-bottom: 30px;}
+.wrappers .wrapper #container .INT h1,h2,h3,h4,p {color: black}
+.flex-1 {display: flex; padding-left: 20%;}
+.wrappers .wrapper #container p{padding-left: 4%}
+.wrappers .wrapper #container h4{padding-left: 2%; color: black; font-size: 16px; font-style: oblique;}
